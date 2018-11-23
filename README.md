@@ -25,4 +25,12 @@ Daniel J. Levitin - The Guardian - 18 Jan 2015
 
 Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 
-[The world's worst submarine disasters](data/subdisasters.html)
+# Data Visualization examples
+
+- [The world's worst submarine disasters](https://whatdoeskmean.github.io/data/subdisasters.html)
+- [GDP growth numbers during an Argentinian president’s time in office from between 1963 to 2017](https://whatdoeskmean.github.io/data/presidents.html)
+- [Argentine femicide and homicide rates by genre from between 2012 to 2018](https://whatdoeskmean.github.io/data/murders.html)
+- [Human Resources in Science and Technology by Gender (May 8th 2017)](https://whatdoeskmean.github.io/data/tec.html)
+- [Current Wildfires around the Globe (Nov 22nd 2018)](https://whatdoeskmean.github.io/data/wildfires.html)
+- [Earth Natural Events around the World (Nov 23rd 2018)](https://whatdoeskmean.github.io/data/worldevents.html)
+- 
