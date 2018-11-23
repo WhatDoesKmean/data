@@ -19,3 +19,5 @@ Daniel J. Levitin - The Guardian - 18 Jan 2015
 > One is in the prediction business, not the explanation business. And, in the prediction business, you just need to know that something works, not why.
 
 Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
+
+[The world's worst submarine disasters](data/subdisasters.html)
