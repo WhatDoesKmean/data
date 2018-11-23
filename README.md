@@ -33,4 +33,5 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Argentine Human Resources in Science and Technology by Gender (May 8th 2017)](https://whatdoeskmean.github.io/data/tec.html)
 - [Current Wildfires around the Globe (Nov 22nd 2018)](https://whatdoeskmean.github.io/data/wildfires.html)
 - [Earth Natural Events around the World (Nov 23rd 2018)](https://whatdoeskmean.github.io/data/worldevents.html)
+- [Abortion Internet searches in Argentina from between 2014 to 2018](https://whatdoeskmean.github.io/data/abortion.html)
 
