@@ -1,8 +1,9 @@
-# data 
+# data (n.)
 
-*data (n.)*
 1640s, "a fact given or granted," classical plural of datum, from Latin datum "(thing) given," neuter past participle of dare "to give" (from PIE root *do- "to give"). In classical use originally "a fact given as the basis for calculation in mathematical problems." From 1897 as "numerical facts collected for future reference."
 Meaning "transmittable and storable information by which computer operations are performed" is first recorded 1946. Data-processing is from 1954; data-base (also database) "structured collection of data in a computer" is by 1962; data-entry is by 1970.
+
+# Quotes
 
 > Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it...
 
