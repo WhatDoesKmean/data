@@ -36,3 +36,4 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Abortion Internet searches in Argentina from between 2014 to 2018](https://whatdoeskmean.github.io/data/abortion.html)
 - [Income distribution in G20 countries](https://whatdoeskmean.github.io/data/g20.html)
 - [UNICEF - Vaccination and Immunization Trends from between 1980 to 2017](https://whatdoeskmean.github.io/data/vaccination.html)
+
