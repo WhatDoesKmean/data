@@ -37,3 +37,4 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Income distribution in G20 countries](https://whatdoeskmean.github.io/data/g20.html)
 - [UNICEF - Vaccination and Immunization Trends from between 1980 to 2017](https://whatdoeskmean.github.io/data/vaccination.html)
 - [OECD - Average annual hours worked by country](https://whatdoeskmean.github.io/data/annualhours.html)
+
