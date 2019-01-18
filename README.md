@@ -41,3 +41,4 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Argentina 's Exports and Imports during 2002-2018](https://whatdoeskmean.github.io/data/argimpexp.html)
 - [Argentina - Evolución interrupciones de energía eléctrica (Enero 2011 - Diciembre 2017)](https://whatdoeskmean.github.io/data/cortesenergia.html)
 - [YPF Argentina - Evolución de los precios en combustibles](https://whatdoeskmean.github.io/data/combustibles.html)
+- [Autopistas Buenos Aires - Intervenciones de Seguridad Vial](https://whatdoeskmean.github.io/data/segvial.html)
