@@ -42,3 +42,4 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Argentina - Evolución interrupciones de energía eléctrica (Enero 2011 - Diciembre 2017)](https://whatdoeskmean.github.io/data/cortesenergia.html)
 - [YPF Argentina - Evolución de los precios en combustibles](https://whatdoeskmean.github.io/data/combustibles.html)
 - [Autopistas Buenos Aires - Intervenciones de Seguridad Vial](https://whatdoeskmean.github.io/data/segvial.html)
+- [The Meteoritical Society info on all of the meteorite landings over the years](https://whatdoeskmean.github.io/data/meteorites.html)
