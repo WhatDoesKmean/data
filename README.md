@@ -43,3 +43,7 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [YPF Argentina - Evolución de los precios en combustibles](https://whatdoeskmean.github.io/data/combustibles.html)
 - [Autopistas Buenos Aires - Intervenciones de Seguridad Vial](https://whatdoeskmean.github.io/data/segvial.html)
 - [The Meteoritical Society info on all of the meteorite landings over the years](https://whatdoeskmean.github.io/data/meteorites.html)
+- [Analisis de Sentimiento con Tweets utilizando Azure Cognitive Services (2do Debate Presidencial 2019)](https://whatdoeskmean.github.io/data/sentiment.html)
+- [Encuesta Nacional de Factores de Riesgo Argentina (Sep>Dic - 2018)](https://whatdoeskmean.github.io/data/enfr2018.html)
+- [Tobilleras Electronicas de la Ciudad de Buenos Aires](https://whatdoeskmean.github.io/data/tobillerasba.html)
+- [Analisis de Siniestros de la Ciudad de Buenos Aires 2014-2019](https://whatdoeskmean.github.io/data/siniestros_ausa.html)
