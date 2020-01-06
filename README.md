@@ -48,4 +48,3 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Tobilleras Electronicas de la Ciudad de Buenos Aires](https://whatdoeskmean.github.io/data/tobillerasba.html)
 - [Analisis de Siniestros de la Ciudad de Buenos Aires 2014-2019](https://whatdoeskmean.github.io/data/siniestros_ausa.html)
 - [Situacion de Veteranos de Malvinas](https://github.com/WhatDoesKmean/data/blob/gh-pages/veteranos.html)
-
