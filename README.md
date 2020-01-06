@@ -47,4 +47,5 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Encuesta Nacional de Factores de Riesgo Argentina (Sep>Dic - 2018)](https://whatdoeskmean.github.io/data/enfr2018.html)
 - [Tobilleras Electronicas de la Ciudad de Buenos Aires](https://whatdoeskmean.github.io/data/tobillerasba.html)
 - [Analisis de Siniestros de la Ciudad de Buenos Aires 2014-2019](https://whatdoeskmean.github.io/data/siniestros_ausa.html)
+- [Situacion de Veteranos de Malvinas](https://github.com/WhatDoesKmean/data/blob/gh-pages/veteranos.html)
 
