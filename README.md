@@ -50,3 +50,5 @@ Fragments from *Everybody Lies* by Seth Stephens- Davidowitz
 - [Situacion de Veteranos de Malvinas](https://github.com/WhatDoesKmean/data/blob/gh-pages/veteranos.html)
 - [SIDER - Drug Side Effects](https://whatdoeskmean.github.io/data/drugsider.html)
 - [Encuesta Nacional de Factores de Riesgo (ENFR)-  Sep > Dic 2018](https://whatdoeskmean.github.io/data/enfr2018.html)
+- [Australia - Annual Mean Temperature Anomaly](https://whatdoeskmean.github.io/data/australiamt.html)
+
