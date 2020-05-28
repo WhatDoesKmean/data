@@ -13,9 +13,12 @@ p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
-  text-color: #f1582c;
+  color: #f1582c;
 }
 
+a {
+  color: #f1582c;
+}
 
 html {
   background-color: white;
